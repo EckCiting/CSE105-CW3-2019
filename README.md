@@ -10,7 +10,7 @@ The initial upload time is March 7, 2020, which is after the 2019-2020 S1 result
 <h3>Class description:</h3>
 The classes is divided into 3 parts: Main, Data and GUI.<br>
 <br>
-Main Part only contains Main Class. It is the entrance of the hole project. It also set colour and animal icon by modifying constants: BACKGROUND_COLOR and ICON.<br>
+Main Part only contains Main Class. It is the entrance of the hole project. You can set the color and animal icon by modifying the constants: BACKGROUND_COLOR and ICON.<br>
 <br>
 Data Class and FileUtil Class are the Data part. Data class is to store animal information which contains country name and animal number. FileUtil Class has tools for manipulating files and pictures.<br>
 <br>
